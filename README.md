@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![LGTM](https://lgtm.lol/api/random)
-<script>
-  alert("fuck");
-</script>
+
+<iframe width="560" height="315" src="https://lgtm.lol/random" frameborder="0" allowfullscreen></iframe>

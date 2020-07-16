@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-![LGTM](https://lgtm.lol/api/random)
+![LGTM](https://lgtm.lol/api/random?test)

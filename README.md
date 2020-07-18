@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![LGTM](https://lgtm.lol/p/41)](https://lgtm.lol/i/41)
+
+[![LGTM](https://lgtm.lol/p/582)](https://lgtm.lol/i/582)

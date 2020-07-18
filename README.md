@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LGTM](https://lgtm.lol/p/582)](https://lgtm.lol/i/582)
+[![LGTM](https://lgtm.lol/p/108)](https://lgtm.lol/i/108)

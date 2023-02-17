@@ -9,7 +9,7 @@ const { h, render } = require('ink');
 const ui = importJsx('./cui');
 
 const fallback = async () => {
-	const image = await terminalImage.file(path.join(__dirname, '695.jpg'), {width: 20, height: 20});
+	const image = await terminalImage.file(path.join(__dirname, '695.png'), {width: 20, height: 20});
 	console.log(image);
 };
 

@@ -15,7 +15,7 @@ const handleSelect = item => {
 const items = [
   {
 		label: 'Website',
-		url: 'https://dongri.eth.limo'
+		url: 'https://dongri.org'
   },
   {
 		label: 'Blog',
@@ -27,7 +27,7 @@ const items = [
   },
   {
 		label: 'Twitter',
-		url: 'https://twitter.com/dongrify'
+		url: 'https://twitter.com/dongrium'
   },
   {
 		label: 'Bye',
